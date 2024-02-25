@@ -1,1 +1,1 @@
-[<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text)https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=capsule%20render&fontSize=90" />
