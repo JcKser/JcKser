@@ -8,14 +8,15 @@
 
 
 ## Sobre mim / About me:
-<img src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif" width="170" height="200" alt="Jc">
+<img align="left" class="image" width="170" height="220" style="clip: rect(0px, 100px, 100px, 0px)" alt="Jc" src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif">
 
 
-Português:
 
-Sou estudante de Ciências da Computação da PUC MG, Belo Horizonte. Iniciei na área da tecnologia através dos jogos quando era bem pequena e eles abriram um novo mundo para mim. Desde então, comecei a estudar programação e adquiri muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo de hoje. 
+ Português:
 
-Adoro programar, desenhar e jogar alguns jogos, são as 3 grandes paixões da minha vida.
+ Sou estudante de Ciências da Computação da PUC MG, Belo Horizonte. Iniciei na área da tecnologia através dos jogos quando era bem pequena e eles abriram um novo mundo para mim. Desde então, comecei a estudar programação e adquiri muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo de hoje. 
+
+   Adoro programar, desenhar e jogar alguns jogos, são as 3 grandes paixões da minha vida.
 
 English:
 
