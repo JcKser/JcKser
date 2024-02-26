@@ -56,6 +56,17 @@ I love music, drawing, playing some games, cooking, and accumulating many skills
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JcKser&layout=compact&hide_border=true&title_color=ff91a4&text_color=gradient&bg_color=0d1117" />
 </div>
 
+## Contato / Contact
+
+<div> 
+  <br>
+<a href = "mailto:ferreirakser@gmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white="_blank"></a>
+<a href="https://www.instagram.com/_.kser._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="www.linkedin.com/in/júlio-césar-6a8a73277" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+<br><br>
+ 
 
 
 
