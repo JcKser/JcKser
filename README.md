@@ -68,7 +68,7 @@ I love music, drawing, playing some games, cooking, and accumulating many skills
 <br><br>
  
 
-
+![snake gif](https://github.com/JcKser/JcKser/blob/output/github-contribution-grid-snake.gif)
 
 
 
