@@ -19,9 +19,7 @@ _...._- Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. 
 ......de hoje.
 
 ......Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades, desde as mais 
-......complexas e úteis 
-
-até as mais inúteis.
+......complexas e úteis até as mais inúteis.
 
 
 English:
