@@ -3,12 +3,17 @@
 
 <p ">
    
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=gradient&size=32&center=true&vCenter=true&width=1100&lines=Meu+nome+é+Júlio+César!/+My+name+is+Júlio+César!;Eu+tenho+20+anos.+/+I+have+20+years.;Faço+faculdade+na+PUC-MG.+/+I+attend+college+at+PUC-MG.;Curso+Ciências+da+Computação.+/+I+study+Computer+Science.;Bem+Vindo+(a)!+/+Welcome" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=gradient&size=32&center=true&vCenter=true&width=1100&lines=Meu+nome+é+Júlio+César!/+My+name+is+Júlio+César!;Eu+tenho+21+anos.+/+I+have+21+years.;Faço+faculdade+na+PUC-MG.+/+I+attend+college+at+PUC-MG.;Curso+Ciências+da+Computação.+/+I+study+Computer+Science.;Bem+Vindo+(a)!+/+Welcome" alt="Typing SVG" /></a>
 </p>
 
 
 ## Sobre mim / About me:
-<img align="left" src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif" width="170" height="210" style="margin-right: 40px; padding-right: 20px;"/>
+<img
+  align="left"
+  src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif"
+  width="170" height="210"
+  style="float:left; margin:0 20px 20px 0;"
+/>
 
    Português:
 
