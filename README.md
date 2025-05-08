@@ -8,25 +8,20 @@
 
 
 ## Sobre mim / About me:
-<img  align="left" class="image" width="170" height="210" alt="Jc" src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif">
+<img align="left" src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif" width="170" height="210" style="margin-right: 20px;"/>
 
-Português:
+**Português:**  
+Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. Sempre fui entusiasta em tecnologia, constantemente tentando criar programas e jogos, mantendo minha criatividade ativa. Desde então, comecei a estudar programação com o objetivo de tornar meus sonhos e imaginação realidade, adquirindo muito interesse por essa área tão importante para o desenvolvimento tecnológico no mundo de hoje.
 
- Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. Sempre fui meio entusiasta em 
-tecnologia, sempre tentando criar programas e jogos, mantendo minha criatividade ativa. Desde então, 
-comecei a estudar programação, com o objetivo de tornar meus sonhos e imaginação realidade, 
-adquirindo muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo 
-de hoje.
+Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades — das mais complexas e úteis às mais inusitadas.
 
-Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades, desde as mais 
-complexas e úteis até as mais inúteis.
+<br clear="left"/>
 
+**English:**  
+I am a Computer Science student at PUC MG, Belo Horizonte. I have always been a technology enthusiast, constantly trying to create programs and games while keeping my creativity active. Since then, I’ve started studying programming to bring my ideas to life, developing a deep interest in this area, which is essential for today’s technological evolution.
 
-English:
+I love music, drawing, playing games, cooking, and picking up all kinds of skills — from the most useful to the most random ones.
 
-I am a Computer Science student at PUC MG, Belo Horizonte. I have always been somewhat of a technology enthusiast, constantly trying to create programs and games, and keeping my creativity active. Since then, I have started studying programming in order to make my dreams and imagination a reality, developing a great interest in this field, which is so crucial for technological advancement in today's world.
-
-I love music, drawing, playing some games, cooking, and accumulating many skills, from the most complex and useful to the most useless.
 
 ## Linguagens de programação / Programming Languages.:
 
