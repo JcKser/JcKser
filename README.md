@@ -10,7 +10,7 @@
 ## Sobre mim / About me:
 <img  align="left" class="image" width="170" height="210" alt="Jc" src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif">
 
--   Português:
+-..   Português:
 
  Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. Sempre fui meio entusiasta em 
 tecnologia, sempre tentando criar programas e jogos, mantendo minha criatividade ativa. Desde então, 
