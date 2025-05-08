@@ -3,42 +3,30 @@
 
 <p ">
    
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=gradient&size=32&center=true&vCenter=true&width=1100&lines=Meu+nome+é+Júlio+César!/+My+name+is+Júlio+César!;Eu+tenho+21+anos.+/+I+have+21+years.;Faço+faculdade+na+PUC-MG.+/+I+attend+college+at+PUC-MG.;Curso+Ciências+da+Computação.+/+I+study+Computer+Science.;Bem+Vindo+(a)!+/+Welcome" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=gradient&size=32&center=true&vCenter=true&width=1100&lines=Meu+nome+é+Júlio+César!/+My+name+is+Júlio+César!;Eu+tenho+20+anos.+/+I+have+20+years.;Faço+faculdade+na+PUC-MG.+/+I+attend+college+at+PUC-MG.;Curso+Ciências+da+Computação.+/+I+study+Computer+Science.;Bem+Vindo+(a)!+/+Welcome" alt="Typing SVG" /></a>
 </p>
 
 
 ## Sobre mim / About me:
-<table>
-  <tr>
-    <!-- Coluna da imagem -->
-    <td valign="top">
-      <img
-        src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif"
-        width="170" height="210"
-        alt="Minha foto"
-      />
-    </td>
+<img align="left" src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif" width="170" height="210" style="margin-right: 40px; padding-right: 20px;"/>
 
-    <!-- Coluna vazia só pra espaçamento -->
-   <td width="30"></td>
+   Português:
 
-     <!-- Coluna de texto -->
-   <td valign="top">
-       **Português:**<br>
-      Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte.  
-      Sempre fui meio entusiasta em tecnologia, sempre tentando criar programas e jogos, mantendo minha criatividade ativa.  
-      Desde então, comecei a estudar programação, com o objetivo de tornar meus sonhos e imaginação realidade, adquirindo muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo de hoje.<br><br>
+ Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. Sempre fui meio entusiasta em 
+tecnologia, sempre tentando criar programas e jogos, mantendo minha criatividade ativa. Desde então, 
+comecei a estudar programação, com o objetivo de tornar meus sonhos e imaginação realidade, 
+adquirindo muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo 
+de hoje.
 
- Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades, desde as mais complexas e úteis até as mais inúteis.<br><br>
+Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades, desde as mais 
+complexas e úteis até as mais inúteis.
 
-   **English:**<br>
-      I am a Computer Science student at PUC MG, Belo Horizonte. I have always been somewhat of a technology enthusiast, constantly trying to create programs and games, and keeping my creativity active. Since then, I have started studying programming in order to make my dreams and imagination a reality, developing a great interest in this field, which is so crucial for technological advancement in today's world.<br><br>
 
-      I love music, drawing, playing some games, cooking, and accumulating many skills, from the most complex and useful to the most useless.
-    </td>
-  </tr>
-</table>
+English:
 
+I am a Computer Science student at PUC MG, Belo Horizonte. I have always been somewhat of a technology enthusiast, constantly trying to create programs and games, and keeping my creativity active. Since then, I have started studying programming in order to make my dreams and imagination a reality, developing a great interest in this field, which is so crucial for technological advancement in today's world.
+
+I love music, drawing, playing some games, cooking, and accumulating many skills, from the most complex and useful to the most useless.
 
 ## Linguagens de programação / Programming Languages.:
 
@@ -79,4 +67,3 @@
  
 
 ![snake gif](https://github.com/JcKser/JcKser/blob/output/github-contribution-grid-snake.gif)
-
