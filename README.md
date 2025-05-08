@@ -13,7 +13,7 @@
 -   Português:
 
 _...._- Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. Sempre fui meio entusiasta em 
-......tecnologia, sempre tentando criar programas e jogos, mantendo minha criatividade ativa. Desde então, 
+tecnologia, sempre tentando criar programas e jogos, mantendo minha criatividade ativa. Desde então, 
 ......comecei a estudar programação, com o objetivo de tornar meus sonhos e imaginação realidade, 
 ......adquirindo muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo 
 ......de hoje.
