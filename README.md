@@ -10,9 +10,11 @@
 ## Sobre mim / About me:
 <img
   align="left"
-  src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f2cd44fabca9f.gif"
+  src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif"
   width="170" height="210"
+  style="float:left; margin:0 20px 20px 0;"
 />
+
 
 
    Português:
