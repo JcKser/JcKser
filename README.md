@@ -8,19 +8,30 @@
 
 
 ## Sobre mim / About me:
-<img align="left" src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif" width="170" height="210" style="margin-right: 100px;"/>
+
+<table>
+<tr>
+<td>
+  <img src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif" width="170" height="210">
+</td>
+<td style="padding-left: 25px;">
 
 **Português:**  
 Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. Sempre fui entusiasta em tecnologia, constantemente tentando criar programas e jogos, mantendo minha criatividade ativa. Desde então, comecei a estudar programação com o objetivo de tornar meus sonhos e imaginação realidade, adquirindo muito interesse por essa área tão importante para o desenvolvimento tecnológico no mundo de hoje.
 
 Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades — das mais complexas e úteis às mais inusitadas.
 
-<br clear="left"/>
+<br>
 
 **English:**  
 I am a Computer Science student at PUC MG, Belo Horizonte. I have always been a technology enthusiast, constantly trying to create programs and games while keeping my creativity active. Since then, I’ve started studying programming to bring my ideas to life, developing a deep interest in this area, which is essential for today’s technological evolution.
 
 I love music, drawing, playing games, cooking, and picking up all kinds of skills — from the most useful to the most random ones.
+
+</td>
+</tr>
+</table>
+
 
 
 ## Linguagens de programação / Programming Languages.:
