@@ -12,7 +12,6 @@
   align="left"
   src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f2cd44fabca9f.gif"
   width="170" height="210"
-  hspace="20"
 />
 
 
