@@ -18,8 +18,8 @@ comecei a estudar programação, com o objetivo de tornar meus sonhos e imagina�
 adquirindo muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo 
 de hoje.
 
-......Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades, desde as mais 
-......complexas e úteis até as mais inúteis.
+Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades, desde as mais 
+complexas e úteis até as mais inúteis.
 
 
 English:
