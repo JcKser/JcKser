@@ -22,6 +22,8 @@ Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilida
 complexas e úteis até as mais inúteis.
 
 
+
+
 English:
 
 I am a Computer Science student at PUC MG, Belo Horizonte. I have always been somewhat of a technology enthusiast, constantly trying to create programs and games, and keeping my creativity active. Since then, I have started studying programming in order to make my dreams and imagination a reality, developing a great interest in this field, which is so crucial for technological advancement in today's world.
