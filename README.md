@@ -10,7 +10,7 @@
 ## Sobre mim / About me:
 <img align="left" src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif" width="170" height="210" style="margin-right: 40px; padding-right: 20px;"/>
 
-
+<img src="https://seurepo.com/spacer.png" width="30" height="1" alt="" />
 <div align="  left">
 
 **Português:**
