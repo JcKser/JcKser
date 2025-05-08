@@ -10,7 +10,7 @@
 ## Sobre mim / About me:
 
 <table>
-<tr>
+
 <td style="width: 100px;">
   <img src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif" width="170" height="210">
 </td>
@@ -20,7 +20,7 @@ Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. Sempre f
 
 Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades — das mais complexas e úteis às mais inusitadas.
 
-</tr>
+
 </table>
 
 
