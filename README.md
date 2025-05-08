@@ -10,16 +10,17 @@
 ## Sobre mim / About me:
 <img align="left" src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif" width="170" height="210" style="margin-right: 40px; padding-right: 20px;"/>
 
-   **Português:**
 
- Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. Sempre fui meio entusiasta em 
-tecnologia, sempre tentando criar programas e jogos, mantendo minha criatividade ativa. Desde então, 
-comecei a estudar programação, com o objetivo de tornar meus sonhos e imaginação realidade, 
-adquirindo muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo 
-de hoje.
+<div align="center">
 
-Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades, desde as mais 
-complexas e úteis até as mais inúteis.
+**Português:**
+
+Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. Sempre fui meio entusiasta em tecnologia, sempre tentando criar programas e jogos, mantendo minha criatividade ativa. Desde então, comecei a estudar programação, com o objetivo de tornar meus sonhos e imaginação realidade, adquirindo muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo de hoje.
+
+Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades, desde as mais complexas e úteis até as mais inúteis.
+
+</div>
+
 
 
 **English:**
