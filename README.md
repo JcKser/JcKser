@@ -11,7 +11,7 @@
 <img align="left" src="https://i.pinimg.com/originals/40/6c/4e/406c4e5abdd37040aa1f2cd44fabca9f.gif" width="170" height="210" style="margin-right: 40px; padding-right: 20px;"/>
 
 
-<div align="center">
+<div align="  left">
 
 **Português:**
 
