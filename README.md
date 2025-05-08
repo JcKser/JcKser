@@ -20,18 +20,18 @@
     </td>
 
     <!-- Coluna vazia só pra espaçamento -->
-    <td width="30"></td>
+   <td width="30"></td>
 
-    <!-- Coluna de texto -->
-    <td valign="top">
-      **Português:**<br>
+     <!-- Coluna de texto -->
+   <td valign="top">
+       **Português:**<br>
       Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte.  
       Sempre fui meio entusiasta em tecnologia, sempre tentando criar programas e jogos, mantendo minha criatividade ativa.  
       Desde então, comecei a estudar programação, com o objetivo de tornar meus sonhos e imaginação realidade, adquirindo muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo de hoje.<br><br>
 
-      Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades, desde as mais complexas e úteis até as mais inúteis.<br><br>
+ Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades, desde as mais complexas e úteis até as mais inúteis.<br><br>
 
-      **English:**<br>
+   **English:**<br>
       I am a Computer Science student at PUC MG, Belo Horizonte. I have always been somewhat of a technology enthusiast, constantly trying to create programs and games, and keeping my creativity active. Since then, I have started studying programming in order to make my dreams and imagination a reality, developing a great interest in this field, which is so crucial for technological advancement in today's world.<br><br>
 
       I love music, drawing, playing some games, cooking, and accumulating many skills, from the most complex and useful to the most useless.
