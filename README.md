@@ -19,7 +19,6 @@
 <strong>Português:</strong><br>
 Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. Sempre fui entusiasta em tecnologia, constantemente tentando criar programas e jogos, mantendo minha criatividade ativa. Desde então, comecei a estudar programação com o objetivo de tornar meus sonhos e imaginação realidade, adquirindo muito interesse por essa área tão importante para o desenvolvimento tecnológico no mundo de hoje.
 
-<br><br>
 Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades — das mais complexas e úteis às mais inusitadas.
 
 </td>
