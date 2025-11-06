@@ -13,34 +13,49 @@
 <img align="left" src="https://seurepo.com/spacer.png" width="1" height="210" alt="" />
 <div align="  left">
 
+# 👨‍💻 Sobre mim / About me
+
 **Português:**
 
-Sou estudante de Ciência da Computação da PUC MG, em Belo Horizonte. Sempre fui meio entusiasta em tecnologia, sempre tentando criar programas e jogos, mantendo minha criatividade ativa. Desde então, comecei a estudar programação, com o objetivo de tornar meus sonhos e imaginação realidade, adquirindo muito interesse por esta área tão importante para o desenvolvimento tecnológico no mundo de hoje.
+Sou estudante de Ciência da Computação na PUC Minas, em Belo Horizonte. Desde cedo, sempre fui fascinado por tecnologia — gostava de imaginar, criar e transformar ideias em algo funcional. Essa curiosidade me levou a estudar programação, buscando transformar minha criatividade em código e dar vida a projetos próprios.
 
-Adoro música, desenhar, jogar alguns jogos, cozinhar e adquirir muitas habilidades, desde as mais complexas e úteis até as mais inúteis.
-
-</div>
-
-
+Atualmente, tenho grande interesse em Inteligência Artificial, automações e desenvolvimento de aplicações web, áreas nas quais venho me aprofundando academicamente e em projetos práticos.
+Gosto de música, desenho, games, culinária e de aprender todo tipo de habilidade — das mais úteis às mais aleatórias — porque acredito que toda experiência soma de alguma forma.
 
 **English:**
 
-I am a Computer Science student at PUC MG, Belo Horizonte. I have always been somewhat of a technology enthusiast, constantly trying to create programs and games, and keeping my creativity active. Since then, I have started studying programming in order to make my dreams and imagination a reality, developing a great interest in this field, which is so crucial for technological advancement in today's world.
+I’m a Computer Science student at PUC Minas, based in Belo Horizonte, Brazil. Since I was a kid, I’ve been fascinated by technology — always imagining, creating, and trying to bring my ideas to life through code. This curiosity led me to pursue programming, aiming to turn creativity into reality and build meaningful projects.
 
-I love music, drawing, playing some games, cooking, and accumulating many skills, from the most complex and useful to the most useless.
+Currently, I’m deeply interested in Artificial Intelligence, automation, and web development, areas where I’ve been gaining both academic and practical experience.
+I enjoy music, drawing, gaming, cooking, and learning new skills — from the most useful to the most random ones — because every bit of knowledge adds something valuable.
 
-## Linguagens de programação / Programming Languages.:
+<br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+### 🧠 Linguagens de Programação / Programming Languages
 
- <div style="display: inline_block"><br>
-    <img  alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img  alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img  alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img  alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-     <img  alt="Suh-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> 
-  </div>
+<table>
+  <tr>
+    <td valign="top">
+      <div style="display: inline_block">
+        <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+        <img alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+        <img alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+        <br> <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img alt="Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+      </div>
+      <br><br> 💬 “Transformar ideias em código é a melhor forma de dar forma à imaginação.”
+    </td>
+    
+    <td width="300px" align="center">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" alt="Computador iuriCode">
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## Git stats
 
