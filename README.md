@@ -56,7 +56,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <h3 align="center">☁️ Cloud & Tools / Cloud Skills</h3>
 
-<img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="right" alt="Frameworks Art">
+<img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="left" alt="Frameworks Art">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
