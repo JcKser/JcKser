@@ -32,7 +32,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
   <br><br> 
-  💬 “Transformar ideias em código é a melhor forma de dar forma à imaga.”
+
 </div> 
 <br clear="both">
 
@@ -48,7 +48,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
   <img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
   <img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4">
   <br><br> 
-  ⚙️ “Frameworks são pontes entre a ideia e a execução.”
+
 </div> 
 <br clear="both">
 
@@ -63,7 +63,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
   <br>
   <img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
   <br><br> 
-  🚀 “A nuvem não é só onde os sistemas vivem — é onde as ideias ganham escala.”
+
 </div> 
 <br clear="both">
 ## Git stats
