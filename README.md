@@ -23,52 +23,47 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <br>
 
-### 🧠 Linguagens de Programação / Programming Languages
+<h3 align="center">🧠 Linguagens de Programação / Programming Languages</h3>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 <div align="center">
-     <br><br> 
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
-
   <br><br> 
-
   💬 “Transformar ideias em código é a melhor forma de dar forma à imaginação.”
+</div> 
+<br clear="both">
 
-</div> <br clear="both">
+---
 
-### ⚛️ Frameworks & Libraries
+<h3 align="center">⚛️ Frameworks & Libraries</h3>
 
-
-  
 <div align="center">
-  <br><br> 
   <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
   <br>
   <img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
   <img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4">
-
   <br><br> 
+  ⚙️ “Frameworks são pontes entre a ideia e a execução.”
+</div> 
+<br clear="both">
 
-</div> <br clear="both">
+---
 
-### ☁️ Cloud & Tools / Cloud Skills
+<h3 align="center">☁️ Cloud & Tools / Cloud Skills</h3>
 
-
+<img src="assets/Captura%20de%20tela%202025-11-06%20213058.png" width="300px" align="left" alt="Keycaps de Tecnologias">
 
 <div align="center">
-    <br><br> 
   <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
   <br>
-
-  
+  <img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
   <br><br> 
-
-
-</div> <br clear="both">
-
+  🚀 “A nuvem não é só onde os sistemas vivem — é onde as ideias ganham escala.”
+</div> 
+<br clear="both">
 ## Git stats
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JcKSer&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
