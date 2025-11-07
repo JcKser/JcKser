@@ -38,7 +38,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <h3 align="center">⚛️ Frameworks & Libraries</h3>
 
-<div align="center" style="position: relative; left: 0px;">
+<div align="center" style="position: relative; right: 5000px;">
 <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
 <br>
 <img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
