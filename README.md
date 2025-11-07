@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=gradient&size=32&center=true&vCenter=true&width=1100&lines=Meu+nome+é+Júlio+César!/+My+name+is+Júlio+César!;Eu+tenho+20+anos.+/+I+have+20+years.;Faço+faculdade+na+PUC-MG.+/+I+attend+college+at+PUC-MG.;Curso+Ciências+da+Computação.+/+I+study+Computer+Science.;Bem+Vindo+(a)!+/+Welcome" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=gradient&size=32&center=true&vCenter=true&width=1100&lines=Meu+nome+é+Júlio+César!/+My+name+is+Júlio+César!;Eu+tenho+20+anos.+/+I+have+20+years.;Faço+faculdade+na+PUC-MG.+/+I+attend+college+at+PUC-MG.;Curso+Ciências+da+Computação.+/+I+study+Computer+Science.;Bem+Vindo+(a)!+/+Welcome" alt="Typing SVG" /></a>
 </p>
 
 # 👨‍💻 Sobre mim / About me
@@ -18,25 +18,15 @@ Gosto de música, desenho, games, culinária e de aprender todo tipo de habilida
 I’m a Computer Science student at PUC Minas, based in Belo Horizonte, Brazil. Since I was a kid, I’ve been fascinated by technology — always imagining, creating, and trying to bring my ideas to life through code. This curiosity led me to pursue programming, aiming to turn creativity into reality and build meaningful projects.
 
 Currently, I’m deeply interested in Artificial Intelligence, automation, and web development, areas where I’ve been gaining both academic and practical experience.
-I enjoy music, drawing, gaming, cooking, and learning new skills — from the most useful to the most random ones — because every bit of knowledge adds something valuable.
+I enjoy music, drawing, gaming, cooking, and learning new skills — from the most useful to the most random ones — porque every bit of knowledge adds something valuable.
 
 <br>
 
-<!-- 
-=================================================
-SEÇÃO 1: LINGUAGENS (Ajuste manual "left: 100px")
-=================================================
--->
-<!-- Título centralizado na página -->
-<div align="center">
 <h3 align="center">🧠 Linguagens de Programação / Programming Languages</h3>
-</div>
 
-<!-- Imagem flutuando na direita -->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-<!-- Ícones centralizados manualmente -->
-<div align="center" style="position: relative; left: 100px;">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
@@ -46,11 +36,6 @@ SEÇÃO 1: LINGUAGENS (Ajuste manual "left: 100px")
 
 ---
 
-<!-- 
-=================================================
-SEÇÃO 2: FRAMEWORKS (Sem imagem, já centralizado)
-=================================================
--->
 <h3 align="center">⚛️ Frameworks & Libraries</h3>
 
 <div align="center">
@@ -64,21 +49,11 @@ SEÇÃO 2: FRAMEWORKS (Sem imagem, já centralizado)
 
 ---
 
-<!-- 
-=================================================
-SEÇÃO 3: CLOUD (Ajuste manual "right: 100px")
-=================================================
--->
-<!-- Título centralizado na página -->
-<div align="center">
 <h3 align="center">☁️ Cloud & Tools / Cloud Skills</h3>
-</div>
 
-<!-- Imagem flutuando na esquerda -->
 <img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="left" alt="Frameworks Art">
 
-<!-- Ícones centralizados manualmente -->
-<div align="center" style="position: relative; right: 100%;">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
 <br>
 <img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
@@ -99,7 +74,7 @@ SEÇÃO 3: CLOUD (Ajuste manual "right: 100px")
 
 <div>
 <br>
-<a href = "mailto:ferreirakser@gmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white="_blank"></a>
+<a href = "mailto:ferreirakser@gmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"_blank"></a>
 <a href="https://www.instagram.com/_.kser._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/kserjc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
