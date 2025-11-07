@@ -41,7 +41,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 ### ⚛️ Frameworks & Libraries
 
-<img src="https://cdn-icons-png.flaticon.com/512/2535/2535530.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Framework Illustration">
+
   
 <div align="center">
   <br><br> 
@@ -56,7 +56,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 ### ☁️ Cloud & Tools / Cloud Skills
 
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920343.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Cloud Illustration">
+
 
 <div align="center">
 
