@@ -21,48 +21,52 @@ Currently, I’m deeply interested in Artificial Intelligence, automation, and w
 I enjoy music, drawing, gaming, cooking, and learning new skills — from the most useful to the most random ones — because every bit of knowledge adds something valuable.
 
 <br>
+<!-- Linguagens -->
 <div align="center">
-<h3 align="center">🧠 Linguagens de Programação / Programming Languages</h3>
-</div>
+  <h3>🧠 Linguagens de Programação / Programming Languages</h3>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+  <!-- notebook isolado (não interfere nos ícones) -->
+  <div style="position: relative; width: 100%; text-align: center;">
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+         width="300px"
+         alt="Computador"
+         style="position: absolute; right: 5%; top: 0; opacity: 0.9;">
+  </div>
 
-<div align="center" style="position: relative; left: 150px;">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
-<br><br>
+  <!-- ícones centralizados -->
+  <div style="margin-top: 100px;"> 
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
+  </div>
+  <br><br>
 </div>
-<br clear="both">
 
 ---
 
-<h3 align="center">⚛️ Frameworks & Libraries</h3>
-
+<!-- Frameworks -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
-<br>
-<img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
-<img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4">
-<br><br>
+  <h3>⚛️ Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
+  <br>
+  <img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
+  <img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4">
+  <br><br>
 </div>
-<br clear="both">
 
 ---
 
+<!-- Cloud -->
 <div align="center">
-<h3 align="center">☁️ Cloud & Tools / Cloud Skills</h3>
+  <h3>☁️ Cloud & Tools / Cloud Skills</h3>
+  <img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" style="display:block; margin: 0 auto 20px;">
+  <br>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
+  <br>
+  <img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
+  <br><br>
 </div>
 
-<img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="left" alt="Frameworks Art">
-
-<div align="center" style="position: relative; right: 150px;">
-<img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
-<br>
-<img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
-<br><br>
-</div>
-<br clear="both">
 ## Git stats
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JcKSer&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
