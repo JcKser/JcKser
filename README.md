@@ -25,14 +25,21 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 <h3 align="center">🧠 Linguagens de Programação / Programming Languages</h3>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
-
-<div align="center" style="position: relative; right: 3000px;">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
-<br><br>
-</div>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td align="center" valign="top">
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
+    <br><br>
+    💬 “Transformar ideias em código é a melhor forma de dar forma à imaga.”
+  </td>
+  
+  <td width="300px" align="right" valign="top">
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" alt="Computador iuriCode">
+  </td>
+</tr>
+</table>
 <br clear="both">
 
 ---
@@ -42,9 +49,10 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
 <br>
-<img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
+<img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=">
 <img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4">
 <br><br>
+⚙️ “Frameworks são pontes entre a ideia e a execução.”
 </div>
 <br clear="both">
 
@@ -54,14 +62,21 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 <h3 align="center">☁️ Cloud & Tools / Cloud Skills</h3>
 </div>
 
-<img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="left" alt="Frameworks Art">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td width="300px" align="left" valign="top">
+    <img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" alt="Frameworks Art">
+  </td>
 
-<div align="center" style="position: relative; right: 150px;">
-<img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
-<br>
-<img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
-<br><br>
-</div>
+  <td align="center" valign="top">
+    <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
+    <br>
+    <img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
+    <br><br>
+    🚀 “A nuvem não é só onde os sistemas vivem — é onde as ideias ganham escala.”
+  </td>
+</tr>
+</table>
 <br clear="both">
 ## Git stats
 
