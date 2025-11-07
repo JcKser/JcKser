@@ -49,55 +49,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 ---
 
-### ⚛️ Frameworks & Libraries
 
-<table>
-<tr>
-<td valign="top">
-<div style="display: inline_block">
-<img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img alt="Flask" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-<img alt="FastAPI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-<img alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-<img alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-<img alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-<img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
-<img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4">
-</div>
-<br><br> ⚙️ “Frameworks são pontes entre a ideia e a execução.”
-</td>
-<td width="300px" align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/2535/2535530.png" min-width="300px" max-width="300px" width="300px" alt="Framework Illustration">
-</td>
-</tr>
-</table>
-
----
-
-### ☁️ Cloud & Tools / Cloud Skills
-
-<table>
-<tr>
-<td valign="top">
-<div style="display: inline_block">
-<img alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-<img alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-<img alt="Google Cloud" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-<img alt="Vercel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg">
-<img alt="Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-<img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
-<img alt="Hugging Face" height="40" width="40" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4">
-</div>
-<br><br> 🚀 “A nuvem não é só onde os sistemas vivem — é onde as ideias ganham escala.”
-</td>
-<td width="300px" align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920343.png" min-width="300px" max-width="300px" width="300px" alt="Cloud Illustration">
-</td>
-</tr>
-</table>
 
 ## Git stats
 
