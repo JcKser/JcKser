@@ -1,86 +1,65 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<!-- HERO / typing svg (mantém) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="header" style="width:100%; display:block; margin:0 auto;" />
 
-<p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=gradient&size=32&center=true&vCenter=true&width=1100&lines=Meu+nome+é+Júlio+César!/+My+name+is+Júlio+César!;Eu+tenho+20+anos.+/+I+have+20+years.;Faço+faculdade+na+PUC-MG.+/+I+attend+college+at+PUC-MG.;Curso+Ciências+da+Computação.+/+I+study+Computer+Science.;Bem+Vindo+(a)!+/+Welcome" alt="Typing SVG" /></a>
+<p style="text-align:center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=gradient&size=32&center=true&vCenter=true&width=1100&lines=Meu+nome+é+Júlio+César!/+My+name+is+Júlio+César!;Eu+tenho+20+anos.+/+I+have+20+years.;Faço+faculdade+na+PUC-MG.+/+I+attend+college+at+PUC-MG.;Curso+Ciências+da+Computação.+/+I+study+Computer+Science.;Bem+Vindo+(a)!+/+Welcome" alt="Typing SVG" />
+  </a>
 </p>
 
-# 👨‍💻 Sobre mim / About me
+<!-- ============================
+     Linguagens (imagem overlay à direita, ícones centralizados)
+     ============================ -->
+<div style="position: relative; width: 100%;">
 
-**Português:**
+  <!-- IMAGE: overlay absoluto (ajusta right/top/width se precisar) -->
+  <img
+    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+    alt="Computador"
+    style="
+      position: absolute;
+      right: 4%;          /* distância da margem direita */
+      top: 10px;          /* distância do topo da seção */
+      width: 300px;       /* largura da imagem */
+      z-index: 2;
+      pointer-events: none;
+      opacity: 0.98;
+    "
+  />
 
-Sou estudante de Ciência da Computação na PUC Minas, em Belo Horizonte. Desde cedo, sempre fui fascinado por tecnologia — gostava de imaginar, criar e transformar ideias em algo funcional. Essa curiosidade me levou a estudar programação, buscando transformar minha criatividade em código e dar vida a projetos próprios.
+  <!-- CONTAINER CENTRALIZADO: ícones ficarão aqui, sempre centrados entre margens -->
+  <div style="max-width: 920px; margin: 0 auto; text-align: center; padding-top: 120px;">
+    <h3 style="margin: 6px 0;">🧠 Linguagens de Programação / Programming Languages</h3>
 
-Atualmente, tenho grande interesse em Inteligência Artificial, automações e desenvolvimento de aplicações web, áreas nas quais venho me aprofundando academicamente e em projetos práticos.
-Gosto de música, desenho, games, culinária e de aprender todo tipo de habilidade — das mais úteis às mais aleatórias — porque acredito que toda experiência soma de alguma forma.
-
-**English:**
-
-I’m a Computer Science student at PUC Minas, based in Belo Horizonte, Brazil. Since I was a kid, I’ve been fascinated by technology — always imagining, creating, and trying to bring my ideas to life through code. This curiosity led me to pursue programming, aiming to turn creativity into reality and build meaningful projects.
-
-Currently, I’m deeply interested in Artificial Intelligence, automation, and web development, areas where I’ve been gaining both academic and practical experience.
-I enjoy music, drawing, gaming, cooking, and learning new skills — from the most useful to the most random ones — because every bit of knowledge adds something valuable.
-
-<br>
-<div align="center">
-<h3 align="center">🧠 Linguagens de Programação / Programming Languages</h3>
+    <!-- Ícones: display:block + margin auto garante centralização -->
+    <div style="display:block; margin: 12px 0;">
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="langs row1" style="display:block; margin: 10px auto;" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" alt="langs row2" style="display:block; margin: 10px auto;" />
+    </div>
+  </div>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<hr style="margin: 36px 0;" />
 
-<div align="center" style="position: relative; left: 120px;">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
-<br><br>
-</div>
-<br clear="both">
-
----
-
-<h3 align="center">⚛️ Frameworks & Libraries</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
-<br>
-<img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
-<img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4">
-<br><br>
-</div>
-<br clear="both">
-
----
-
-<div align="center">
-<h3 align="center">☁️ Cloud & Tools / Cloud Skills</h3>
+<!-- Frameworks -->
+<div style="max-width: 920px; margin: 0 auto; text-align: center;">
+  <h3>⚛️ Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" style="display:block; margin: 12px auto;" alt="framework icons" />
+  <div style="margin-top:12px;">
+    <img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" style="margin: 0 6px;">
+    <img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4" style="margin: 0 6px;">
+  </div>
 </div>
 
-<img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="left" alt="Frameworks Art">
+<hr style="margin: 36px 0;" />
 
-<div align="center" style="position: relative; right: 120px;">
-<img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
-<br>
-<img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
-<br><br>
+<!-- Cloud -->
+<div style="max-width: 920px; margin: 0 auto; text-align: center;">
+  <h3>☁️ Cloud & Tools / Cloud Skills</h3>
+
+  <!-- Se quiser uma imagem overlay à esquerda aqui também, repete a técnica. -->
+  <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" style="display:block; margin: 12px auto;" alt="cloud icons" />
+  <div style="margin-top:12px;">
+    <img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4" style="margin: 0 6px;">
+  </div>
 </div>
-<br clear="both">
-## Git stats
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JcKSer&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JcKser&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Jc github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JcKser&layout=compact&hide_border=true&title_color=ff91a4&text_color=gradient&bg_color=0d1117" />
-</div>
-
-## Contato / Contact
-
-<div>
-<br>
-<a href = "mailto:ferreirakser@gmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white="_blank"></a>
-<a href="https://www.instagram.com/_.kser._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/kserjc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>
-<br><br>
-
-![snake gif](https://github.com/JcKser/JcKser/blob/output/github-contribution-grid-snake.gif)
