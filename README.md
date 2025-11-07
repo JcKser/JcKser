@@ -39,6 +39,23 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 </div> <br clear="both">
 
+### ⚛️ Frameworks & Libraries
+
+<img src="https://cdn-icons-png.flaticon.com/512/2535/2535530.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Framework Illustration">
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
+  <br>
+  <img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
+  <img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4">
+
+  <br><br> 
+
+  ⚙️ “Frameworks são pontes entre a ideia e a execução.”
+
+</div> <br clear="both">
+
 ## Git stats
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JcKSer&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
