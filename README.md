@@ -22,7 +22,9 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <br>
 
+<div align="center">
 <h3 align="center">🧠 Linguagens de Programação / Programming Languages</h3>
+</div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
@@ -38,8 +40,6 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <h3 align="center">⚛️ Frameworks & Libraries</h3>
 
-<img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="right" alt="Frameworks Art">
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
 <br>
@@ -51,9 +51,11 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 ---
 
+<div align="center">
 <h3 align="center">☁️ Cloud & Tools / Cloud Skills</h3>
+</div>
 
-<img src="assets/Captura%20de%20tela%202025-11-06%20213058.png" width="300px" align="left" alt="Keycaps de Tecnologias">
+<img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="left" alt="Frameworks Art">
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
@@ -62,7 +64,6 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 <br><br>
 </div>
 <br clear="both">
-
 ## Git stats
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JcKSer&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
