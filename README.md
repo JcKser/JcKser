@@ -40,7 +40,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <h3 align="center">⚛️ Frameworks & Libraries</h3>
 
-<img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="right" alt="Frameworks Art">
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
@@ -56,7 +56,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <h3 align="center">☁️ Cloud & Tools / Cloud Skills</h3>
 
-<img src="assets/Captura%20de%20tela%202025-11-06%20213058.png" width="300px" align="left" alt="Keycaps de Tecnologias">
+<img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="right" alt="Frameworks Art">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
