@@ -22,49 +22,56 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <br>
 <!-- Linguagens -->
-<div align="center">
-  <h3>🧠 Linguagens de Programação / Programming Languages</h3>
+<!-- Seção: Linguagens (imagem fixa à direita, ícones centrados entre margens) -->
+<div style="position: relative; width: 100%;">
 
-  <!-- notebook isolado (não interfere nos ícones) -->
-  <div style="position: relative; width: 100%; text-align: center;">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-         width="300px"
-         alt="Computador"
-         style="position: absolute; right: 5%; top: 0; opacity: 0.9;">
-  </div>
+  <!-- 1) imagem posicionada exatamente onde quiser (overlay).
+        Ajusta right/top/width conforme precisa. -->
+  <img
+    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+    alt="Computador"
+    style="
+      position: absolute;
+      right: 5%;            /* distancia da margem direita -> ajustar */
+      top: 0px;             /* distancia do topo da seção -> ajustar */
+      width: 300px;         /* largura da imagem (ou use % se preferir) */
+      z-index: 2;
+      pointer-events: none; /* evita que a imagem pegue cliques */
+      opacity: 0.98;
+    "
+  />
 
-  <!-- ícones centralizados -->
-  <div style="margin-top: 100px;"> 
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
+  <!-- 2) Conteúdo normal (ícones) - ficará centrado entre as margens da página -->
+  <div style="max-width: 900px; margin: 0 auto; text-align: center; padding-top: 120px;">
+    <!-- padding-top cria espaço para a imagem não sobrepor os ícones; ajustar conforme necessário -->
+    <h3 style="margin-bottom: 6px;">🧠 Linguagens de Programação / Programming Languages</h3>
+
+    <!-- ícones centralizados -->
+    <div>
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="lang icons" style="display:block; margin: 8px auto;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" alt="more langs" style="display:block; margin: 8px auto;">
+    </div>
   </div>
-  <br><br>
 </div>
 
----
+<hr />
 
-<!-- Frameworks -->
-<div align="center">
+<!-- Frameworks (mesma técnica: imagem isolada se quiser, aqui só centro) -->
+<div style="max-width: 900px; margin: 0 auto; text-align: center;">
   <h3>⚛️ Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
-  <br>
-  <img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
-  <img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4">
-  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" style="display:block; margin: 8px auto;">
+  <div style="margin-top: 12px;">
+    <img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" style="margin: 0 6px;">
+    <img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4" style="margin: 0 6px;">
+  </div>
 </div>
 
----
+<hr />
 
-<!-- Cloud -->
-<div align="center">
+<!-- Cloud & Tools -->
+<div style="max-width: 900px; margin: 0 auto; text-align: center;">
   <h3>☁️ Cloud & Tools / Cloud Skills</h3>
-  <img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" style="display:block; margin: 0 auto 20px;">
-  <br>
-  <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
-  <br>
-  <img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
-  <br><br>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" style="display:block; margin: 8px auto;">
 </div>
 
 ## Git stats
