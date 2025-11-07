@@ -22,11 +22,21 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <br>
 
-<h3 align="top">🧠 Linguagens de Programação / Programming Languages</h3>
+<!-- 
+=================================================
+SEÇÃO 1: LINGUAGENS (Ajuste manual "left: 100px")
+=================================================
+-->
+<!-- Título centralizado na página -->
+<div align="center">
+<h3 align="center">🧠 Linguagens de Programação / Programming Languages</h3>
+</div>
 
+<!-- Imagem flutuando na direita -->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-<div align="center" style="position: absolute; ">
+<!-- Ícones centralizados manualmente -->
+<div align="center" style="position: relative; left: 100px;">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
@@ -36,9 +46,14 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 ---
 
+<!-- 
+=================================================
+SEÇÃO 2: FRAMEWORKS (Sem imagem, já centralizado)
+=================================================
+-->
 <h3 align="center">⚛️ Frameworks & Libraries</h3>
 
-<div align="center" >
+<div align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
 <br>
 <img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
@@ -49,11 +64,21 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 ---
 
-<h3 align="center">☁️ Cloud & Tools / Cloud Skills</h3>
-
-<img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="right" alt="Frameworks Art">
-
+<!-- 
+=================================================
+SEÇÃO 3: CLOUD (Ajuste manual "right: 100px")
+=================================================
+-->
+<!-- Título centralizado na página -->
 <div align="center">
+<h3 align="center">☁️ Cloud & Tools / Cloud Skills</h3>
+</div>
+
+<!-- Imagem flutuando na esquerda -->
+<img src="assets/ChatGPT%20Image%206%20de%20nov.%20de%202025,%2022_12_42.png" width="300px" align="left" alt="Frameworks Art">
+
+<!-- Ícones centralizados manualmente -->
+<div align="center" style="position: relative; right: 100%;">
 <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
 <br>
 <img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
