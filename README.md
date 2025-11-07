@@ -42,17 +42,15 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 ### ⚛️ Frameworks & Libraries
 
 <img src="https://cdn-icons-png.flaticon.com/512/2535/2535530.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Framework Illustration">
-
+  
 <div align="center">
-
+  <br><br> 
   <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
   <br>
   <img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
   <img alt="LlamaIndex" height="40" width="40" src="https://avatars.githubusercontent.com/u/127079236?s=200&v=4">
 
   <br><br> 
-
-  ⚙️ “Frameworks são pontes entre a ideia e a execução.”
 
 </div> <br clear="both">
 
@@ -64,11 +62,10 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
   <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker,github&theme=dark" />
   <br>
-  <img alt="Render" height="40" width="40" src="https://avatars.githubusercontent.com/u/39646826?s=200&v=4">
+
   
   <br><br> 
 
-  🚀 “A nuvem não é só onde os sistemas vivem — é onde as ideias ganham escala.”
 
 </div> <br clear="both">
 
