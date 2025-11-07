@@ -23,7 +23,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <br>
 
-<h3 align="center">🧠 Linguagens de Programação / Programming Languages</h3>
+**<h3 align="center">🧠 Linguagens de Programação / Programming Languages</h3>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
@@ -63,7 +63,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
   <br><br> 
   🚀 “A nuvem não é só onde os sistemas vivem — é onde as ideias ganham escala.”
 </div> 
-<br clear="both">
+<br clear="both">**
 ## Git stats
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JcKSer&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
