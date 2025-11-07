@@ -22,7 +22,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <br>
 
-<h3 align="center">🧠 Linguagens de Programação / Programming Languages</h3>
+<h3 align="top">🧠 Linguagens de Programação / Programming Languages</h3>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
