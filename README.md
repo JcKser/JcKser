@@ -26,7 +26,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-<div align="center">
+<div align="center" style="position: relative; right: 120px;">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
@@ -38,7 +38,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <h3 align="center">⚛️ Frameworks & Libraries</h3>
 
-<div align="center" style="position: relative; right: 5000px;">
+<div align="center" >
 <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap&theme=dark" />
 <br>
 <img alt="LangChain" height="40" width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
