@@ -27,7 +27,7 @@ I enjoy music, drawing, gaming, cooking, and learning new skills — from the mo
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
-<div align="right" style="position: relative; left: 200px;">
+<div align="center" style="position: relative; right: 200px;">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift&theme=dark" />
